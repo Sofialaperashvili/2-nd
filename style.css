@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;}
+
+header{color:white}
+
+header {background-image: url("https://wallpaperaccess.com/full/1321265.jpg");}
+
+
+.kvati {width:420px ;
+        height:230px}
+
+.girl {width:250px;
+       height: 230px;}
+
+.so{width:420px ;
+        height:230px}
+
+.so2{width:370px ;
+        height:230px}
+
+.waa{height: 290px;
+     width:800px;}
+
+html{background-color: lightblue;}
+
+main{background-color: lightblue;}
+
+header{background-color: lightblue;}
+
+footer{background-color: lightblue;
+       color:blue}
+
+
+
+body {text-align: center;}
+ 
