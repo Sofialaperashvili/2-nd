@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.jemali{width:800px;
+        height:100px}
+
+.grass{width:180px;
+       height:130px;}
+
+.emzari{width:180px;
+       height:130px;}
+
+main{background-color:rgba(52, 201, 247, 0.89);} 
+
+header,footer{background-color: aqua;}
+
+
+p{color:rgb(3, 0, 5)}
+
+body{text-align: center;}
